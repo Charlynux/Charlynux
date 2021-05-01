@@ -21,7 +21,7 @@ En dehors de ces présentations, j'ai animé quelques Meetups du groupe [Softwar
 
 Depuis 2018, Iteracode, en partenariat avec l'IUT Informatique d'Amiens, organise un événement pour les étudiants.
 
-Comme son nom l'indique, il s'agit d'une nuit de code. Les étudiants (regroupés en équipes) doivent résoudre un certain nombres d'épreuves. Ces épreuves prenant la forme de requêtes HTTP envoyées sur leurs serveurs.
+Comme son nom l'indique, il s'agit d'une nuit de code. Les étudiants (regroupés en équipes) doivent résoudre un certain nombre d'épreuves. Ces épreuves prenant la forme de requêtes HTTP envoyées sur leurs serveurs.
 
 Cette soirée est l'occasion pour eux de mettre en pratique ce qu'ils ont vu en cours (code, algorithmes, ...) et de se confronter à certaines réalités du métier (répartition du travail, livraison en continue, ...).
 
@@ -30,7 +30,7 @@ L'organisation d'une telle soirée est un travail d'équipe. Pour ma part, je pr
 Pour diverses raisons, le code source des épreuves n'est pas disponible en open source. Toutefois, nous avons essayé de partager sur ce sujet dans deux repositories.
 
 - [nightcode-2020-api-examples](https://github.com/Iteracode/nightcode-2020-api-examples)
-  Des exemples de solutions sur les premières routes demandées en 2020 et aussi un jar vous permettant de tester vous-même ces premières routes.
+  Des exemples de solutions sur les premières routes demandées en 2020 et aussi un jar vous permettant de tester vous-même ces premiers défis.
 
 - [nightcode-2019-results](https://github.com/Iteracode/nightcode-2019-results)
   Des résultats complets pour la Nightcode 2019.
