@@ -1,23 +1,23 @@
-## Mon travail
+## 👨‍💻 Mon travail
 
 Depuis Décembre 2016, j'occupe le poste de Lead Developper chez [Iteracode](https://iteracode.fr/).
 
 Au quotidien, je travaille avec [CakePHP](https://cakephp.org/), [React](https://reactjs.org/) et [React Native](https://reactnative.dev/).
 
-## Présentations
+## 🖥️ Présentations
 
 Vous trouverez les slides de mes différentes présentations dans mon [repository dédié](https://github.com/Charlynux/presentations).
 
-## Meetups Software Crafters
+## 🤝 Meetups Software Crafters
 
-En dehors de ces présentations, j'ai animé quelques Meetups du groupe [Software Crafters Amiens](https://www.meetup.com/fr-FR/Software-Crafters-Amiens/).
+En dehors des présentations, j'ai animé quelques Meetups du groupe [Software Crafters Amiens](https://www.meetup.com/fr-FR/Software-Crafters-Amiens/).
 
 - [Pourquoi je trouve Clojure cool ?](https://github.com/Charlynux/clojure-cool-demos)
 - [Advent of Code 2019](https://github.com/Charlynux/meetup-advent-of-code)
 - [Introduction à Prolog](https://github.com/Charlynux/meetup-crafters-prolog)
 - [Introduction à Datomic](https://github.com/Charlynux/meetup-crafters-datalog)
 
-## Nightcode
+## ✨ Nightcode
 
 Depuis 2018, Iteracode, en partenariat avec l'IUT Informatique d'Amiens, organise un événement pour les étudiants.
 
