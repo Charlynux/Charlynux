@@ -1,8 +1,8 @@
 ## 👨‍💻 Mon travail
 
-Depuis Décembre 2016, j'occupe le poste de Lead Developper chez [Iteracode](https://iteracode.fr/).
+Changement en cours...
 
-Au quotidien, je travaille avec [CakePHP](https://cakephp.org/), [React](https://reactjs.org/) et [React Native](https://reactnative.dev/).
+[Iteracode](https://iteracode.fr/) -> [MiPih](https://www.mipih.fr/)
 
 ## 🖥️ Présentations
 
